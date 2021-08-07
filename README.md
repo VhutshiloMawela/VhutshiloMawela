@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @VhutshiloMawela
+- 👋 Hi, I am a software developer I create & share digital contents for FREE.
+- I’m @VhutshiloMawela from Pretoria
 - 👀 I’m interested in ... 
 Programming 
 Creating applications and websites 
